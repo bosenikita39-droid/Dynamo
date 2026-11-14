@@ -1,2 +1,2 @@
-# Dymano
+# Dynamo
 space tracking system
