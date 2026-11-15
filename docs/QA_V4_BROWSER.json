@@ -1,0 +1,233 @@
+[
+  {
+    "viewport": "desktop",
+    "page": "admin",
+    "has_main": true,
+    "title": "Mission Control",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "page": "astronaut",
+    "has_main": true,
+    "title": "Astronaut Health Overview",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "page": "radiation",
+    "has_main": true,
+    "title": "Radiation Evidence Laboratory",
+    "overflow": false,
+    "errors": [],
+    "data_loaded": true,
+    "interactive": true
+  },
+  {
+    "viewport": "desktop",
+    "page": "timeshield",
+    "has_main": true,
+    "title": "TimeShield Event-Time Laboratory",
+    "overflow": false,
+    "errors": [],
+    "data_loaded": true,
+    "interactive": true
+  },
+  {
+    "viewport": "desktop",
+    "page": "signal-lab",
+    "has_main": true,
+    "title": "Signal Analysis Laboratory",
+    "overflow": false,
+    "errors": [],
+    "interactive": true
+  },
+  {
+    "viewport": "desktop",
+    "page": "evaluation",
+    "has_main": true,
+    "title": "Evaluation Laboratory",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "page": "history",
+    "has_main": true,
+    "title": "Monitoring History",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "page": "datasets",
+    "has_main": true,
+    "title": "Dataset Management",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "page": "settings",
+    "has_main": true,
+    "title": "Configuration",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "page": "admin",
+    "has_main": true,
+    "title": "Mission Control",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "page": "astronaut",
+    "has_main": true,
+    "title": "Astronaut Health Overview",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "page": "radiation",
+    "has_main": true,
+    "title": "Radiation Evidence Laboratory",
+    "overflow": false,
+    "errors": [],
+    "data_loaded": true,
+    "interactive": true
+  },
+  {
+    "viewport": "mobile",
+    "page": "timeshield",
+    "has_main": true,
+    "title": "TimeShield Event-Time Laboratory",
+    "overflow": false,
+    "errors": [],
+    "data_loaded": true,
+    "interactive": true
+  },
+  {
+    "viewport": "mobile",
+    "page": "signal-lab",
+    "has_main": true,
+    "title": "Signal Analysis Laboratory",
+    "overflow": false,
+    "errors": [],
+    "interactive": true
+  },
+  {
+    "viewport": "mobile",
+    "page": "evaluation",
+    "has_main": true,
+    "title": "Evaluation Laboratory",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "page": "history",
+    "has_main": true,
+    "title": "Monitoring History",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "page": "datasets",
+    "has_main": true,
+    "title": "Dataset Management",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "page": "settings",
+    "has_main": true,
+    "title": "Configuration",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "tablet",
+    "page": "admin",
+    "has_main": true,
+    "title": "Mission Control",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "tablet",
+    "page": "astronaut",
+    "has_main": true,
+    "title": "Astronaut Health Overview",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "tablet",
+    "page": "radiation",
+    "has_main": true,
+    "title": "Radiation Evidence Laboratory",
+    "overflow": false,
+    "errors": [],
+    "data_loaded": true,
+    "interactive": true
+  },
+  {
+    "viewport": "tablet",
+    "page": "timeshield",
+    "has_main": true,
+    "title": "TimeShield Event-Time Laboratory",
+    "overflow": false,
+    "errors": [],
+    "data_loaded": true,
+    "interactive": true
+  },
+  {
+    "viewport": "tablet",
+    "page": "signal-lab",
+    "has_main": true,
+    "title": "Signal Analysis Laboratory",
+    "overflow": false,
+    "errors": [],
+    "interactive": true
+  },
+  {
+    "viewport": "tablet",
+    "page": "evaluation",
+    "has_main": true,
+    "title": "Evaluation Laboratory",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "tablet",
+    "page": "history",
+    "has_main": true,
+    "title": "Monitoring History",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "tablet",
+    "page": "datasets",
+    "has_main": true,
+    "title": "Dataset Management",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "tablet",
+    "page": "settings",
+    "has_main": true,
+    "title": "Configuration",
+    "overflow": false,
+    "errors": []
+  }
+]

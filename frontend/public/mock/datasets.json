@@ -1,0 +1,1 @@
+{"recordings": [{"id": "bidmc_01", "name": "BIDMC recording 01", "source": "Bundled public terrestrial clinical recording", "channel": "PLETH", "samples": 60001, "sampling_rate_hz": 125.0, "duration_s": 480.0, "limitations": "Terrestrial patient data; not validated for astronaut medical use."}]}
